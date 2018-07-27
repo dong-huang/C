@@ -10,7 +10,7 @@ int main(){
     vector<int> cad;
     cout << "candidates:";
     char num_;
-    int target=8, num;
+    int target=0, num;
     while(true){
         scanf("%d", &num);
         cad.push_back(num);
